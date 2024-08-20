@@ -21,11 +21,21 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🎉 Fun Facts:
+- 🚀 **Favorite Code Editor**: VS Code, because who doesn’t love a great theme?
+- 🎮 **Game I'm Addicted To**: Minecraft, building pixel by pixel!
+- 🧩 **Favorite Programming Puzzle**: Solving algorithm challenges on [LeetCode](https://leetcode.com/).
+- 🎧 **Current Coding Jam**: My Playlist
+
+### 🐱‍💻 What My Code Looks Like:
+![Code Time](https://wakatime.com/badge/user/your_wakatime_user_id.svg)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5%20million-brightgreen)
+
 ## 🎮 What I'm Playing:
 ![Minecraft Server](https://img.shields.io/badge/Minecraft-Server-2B2B2B?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ## 🔗 Connect with Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/your_twitter](https://x.com/WolfyyX__))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/WolfyyX__)
 
 <p align="center">
     <img alt="Visitor Count" src="https://profile-counter.glitch.me/MxsonnGithub/count.svg">
