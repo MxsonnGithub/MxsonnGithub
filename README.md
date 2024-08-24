@@ -21,6 +21,9 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ⌨ My message to you
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Node.js%2C+Javascript%2C+Discord.js+On+top.;1%2B+Year+of+experience" alt="Typing SVG" /></a>
+
 ### 🎉 Fun Facts:
 - 🚀 **Favorite Code Editor**: VS Code, because who doesn’t love a great theme?
 - 🎮 **Game I'm Addicted To**: Minecraft, building pixel by pixel!
