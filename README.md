@@ -24,16 +24,6 @@
 ### ⌨ My message to you
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;I+know+CSS%2C+HTML%2C+Javascript;Discord.js%2C+Node.js+;And+learning+more.;%22Never+back+down+never+what%3F%22;Just+keep+trying+untill+it+works." alt="Typing SVG" /></a>
 
-### 🎉 Fun Facts:
-- 🚀 **Favorite Code Editor**: VS Code, because who doesn’t love a great theme?
-- 🎮 **Game I'm Addicted To**: Minecraft, building pixel by pixel!
-- 🧩 **Favorite Programming Puzzle**: Solving algorithm challenges on [LeetCode](https://leetcode.com/).
-- 🎧 **Current Coding Jam**: My Playlist
-
-### 🐱‍💻 What My Code Looks Like:
-![Code Time](https://wakatime.com/badge/user/your_wakatime_user_id.svg)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5%20million-brightgreen)
-
 ## 🎮 What I'm Playing:
 ![Minecraft Server](https://img.shields.io/badge/Minecraft-Server-2B2B2B?style=for-the-badge&logo=minecraft&logoColor=white)
 
