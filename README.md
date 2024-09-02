@@ -13,10 +13,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxsonnGithub&layout=compact&theme=radical)
 
 ## 🛠️ Tools and Technologies:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<box-icon type='logo' name='javascript'></box-icon>
+<box-icon type='logo' name='github'></box-icon>
+<box-icon name='react' type='logo' color='#ffffff' ></box-icon>
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
