@@ -1,6 +1,8 @@
 <p align="center">
     <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/1038956642139656194">
-    <img alt="More Discord stuff lol!" src="https://discord.c99.nl/widget/theme-4/1038956642139656194.png">
+</p>
+<p align="center">
+ <img alt="More Discord stuff lol!" src="https://discord.c99.nl/widget/theme-4/1038956642139656194.png">
 </p>
 
 # 💫 About Me:
